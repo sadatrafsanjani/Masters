@@ -1,0 +1,5 @@
+nmap -O 10.100.109.12 > output.txt
+nmap 10.100.109.0/24
+nmap 10.100.109.0/50 --exclude 10.100.109.40-45
+nmap -iL target.txt
+nmap -sV 10.100.109.12

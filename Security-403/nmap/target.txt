@@ -1,0 +1,4 @@
+www.google.com
+www.iit.du.ac.bd
+www.buet.ac.bd
+10.100.109.0/24

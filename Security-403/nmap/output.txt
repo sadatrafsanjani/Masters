@@ -1,0 +1,28 @@
+
+Starting Nmap 7.60 ( https://nmap.org ) at 2019-01-22 21:28 +06
+Nmap scan report for 103.94.135.200
+Host is up (0.12s latency).
+Not shown: 980 closed ports
+PORT      STATE    SERVICE
+25/tcp    filtered smtp
+80/tcp    open     http
+135/tcp   open     msrpc
+139/tcp   open     netbios-ssn
+445/tcp   open     microsoft-ds
+465/tcp   filtered smtps
+587/tcp   filtered submission
+1433/tcp  open     ms-sql-s
+2525/tcp  filtered ms-v-worlds
+5000/tcp  filtered upnp
+6667/tcp  filtered irc
+6969/tcp  filtered acmsoda
+7000/tcp  filtered afs3-fileserver
+12345/tcp filtered netbus
+49152/tcp open     unknown
+49153/tcp open     unknown
+49154/tcp open     unknown
+49155/tcp open     unknown
+49156/tcp open     unknown
+49167/tcp open     unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 4.63 seconds
