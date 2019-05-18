@@ -1,0 +1,1 @@
+ select * FROM EMPLOYEES WHERE employee_id = &employee_num

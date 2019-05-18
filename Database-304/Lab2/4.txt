@@ -1,0 +1,1 @@
+ select LAST_NAME || '''s job is ' || job_id AS "Employee Details" FROM EMPLOYEES;

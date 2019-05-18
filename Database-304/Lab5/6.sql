@@ -1,0 +1,1 @@
+SELECT * FROM dba_data_files; 

@@ -1,0 +1,7 @@
+CREATE TABLE customer
+( customer_name varchar2(10) NOT NULL,
+  customer_street varchar2(50) NOT NULL,
+  customer_city varchar2(50)
+);
+
+

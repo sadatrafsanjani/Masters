@@ -1,0 +1,1 @@
+ select FIRST_NAME,  (sysdate-HIRE_DATE)/(12*365) FROM EMPLOYEES;
